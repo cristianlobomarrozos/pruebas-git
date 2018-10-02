@@ -1,5 +1,7 @@
 # pruebas-git
 Primeros pasos con Git y Github
+git add . --all
+git commit -m "Prueba"
+git push
 
-prueba
 
